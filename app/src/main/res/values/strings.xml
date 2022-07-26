@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Sayan Manna</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio" translatable="false">Hi, my name is Sayan Manna.
+\n\nI\'m 21 years old and i\'m currently pursuing my Bachelors in Technology,
+\n\nmore specifically majoring in Information Technology.
+\n\nI\'ve recently developed interest in android development
+\n\nand so far, i\'m having a lot of fun
+\n\nin building android apps.
+\n\nI also like to be athletic and perform some or the other form
+\n\nof physical exercise be it hitting the gym
+\n\nor, play sports.
+\n\nI also like to listen to music while i\'m
+\n\ndoing my everyday chores. It helps me to focus better.</string>
+    <string name="whats_your_nickname">What\'s your nickname?</string>
+    <string name="done">Done</string>
+</resources>
